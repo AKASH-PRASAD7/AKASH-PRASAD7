@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, node, express, HTML, CSS, JS**
 
-- 📫 How to reach me **akash.cse121126@bppimt.ac.in**
+- 📫 How to reach me **akashprsd7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
