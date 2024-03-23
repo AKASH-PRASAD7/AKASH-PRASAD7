@@ -12,8 +12,8 @@
 
 <p align="center">
   <b>📊 GitHub Stats:</b><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AKASH-PRASAD7&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-PRASAD7&theme=midnight-purple&hide_border=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AKASH-PRASAD7&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-PRASAD7&theme=midnight-purple&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-PRASAD7&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </p>
 
